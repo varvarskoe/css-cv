@@ -138,8 +138,9 @@ a:visited {
 }
 
 .list li {
-    color: rgb(240, 247, 244);
+    color: #f0f7f4;
     margin-bottom: 10px;
+    list-style: none;
     /* border-bottom: solid 1px grey; */
 }
 
